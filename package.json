@@ -1,0 +1,20 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "\"My First Test Application\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "nodemon": "^1.17.1"
+  },
+  "author": "sohel2178",
+  "license": "ISC"
+}
